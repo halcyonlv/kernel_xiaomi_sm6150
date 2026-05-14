@@ -11,3 +11,4 @@
 #include "surya-sdmmagpie-thermal.dtsi"
 #include "surya-sm6150-audio.dtsi"
 #include "surya-msm-audio-lpass.dtsi"
+#include "surya-nfc-overlay.dtsi"
